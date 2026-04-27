@@ -1,40 +1,24 @@
 {
   "main": {
-    "id": "87aca8630305fce6",
+    "id": "44065a245cb8479d",
     "type": "split",
     "children": [
       {
-        "id": "e0d5867525d20751",
+        "id": "9ded12a5fc7132b9",
         "type": "tabs",
         "children": [
           {
-            "id": "411c470cd1773c61",
+            "id": "051d37946e7c3363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bem-vindo.md",
+                "file": "Tipos de Notas/Notas Rápidas (Fleeting)/Criar um backup para obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bem-vindo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0b90523d4cb7b51d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24f3549695a3b805",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "Criar um backup para obsidian"
             }
           }
         ]
@@ -43,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d664502eea64310c",
+    "id": "51b8fc1ccef29e90",
     "type": "split",
     "children": [
       {
-        "id": "894a8cf30cb701d0",
+        "id": "ff2eff2e4f3ba434",
         "type": "tabs",
         "children": [
           {
-            "id": "930f80521595c6fc",
+            "id": "3fdb17ab00da681a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +48,12 @@
             }
           },
           {
-            "id": "7933b79bf0aa7915",
+            "id": "492b9c63ca040c68",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Introdução",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +65,7 @@
             }
           },
           {
-            "id": "8b59e2992fb60ead",
+            "id": "5e71bd7001dab85a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,37 +78,36 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "e57f17a8ca256d87",
+    "id": "bfd69cca07db23c9",
     "type": "split",
     "children": [
       {
-        "id": "d3c5de4bd133ae9f",
+        "id": "e0fa469f010a3c79",
         "type": "tabs",
         "children": [
           {
-            "id": "03a08ac1a6c5d38c",
+            "id": "fd6aa483288f8360",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bem-vindo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Bem-vindo"
+              "title": "Links inversos"
             }
           },
           {
-            "id": "4304ec6ede731c73",
+            "id": "4191c71ff2c56e35",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -138,7 +121,7 @@
             }
           },
           {
-            "id": "b41f7dfda07abfda",
+            "id": "40460dd6d756bf88",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +136,7 @@
             }
           },
           {
-            "id": "1d1a62ce216d17d2",
+            "id": "a28a6248c6615656",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,7 +150,7 @@
             }
           },
           {
-            "id": "5385149a08fb119b",
+            "id": "ab0278f75e3f94be",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -180,27 +163,103 @@
               "icon": "lucide-list",
               "title": "Sumário de Bem-vindo"
             }
+          },
+          {
+            "id": "52f9cef7f11ead05",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "7ff4ff6f0191ad5a",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Notas de rodapé"
+            }
+          },
+          {
+            "id": "1a2356a6e955af37",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
+      "switcher:Abrir a troca rápida": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-kanban:Create new board": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "411c470cd1773c61",
+  "active": "3fdb17ab00da681a",
   "lastOpenFiles": [
-    "Bem-vindo.md"
+    "Tipos de Notas/Notas Rápidas (Fleeting)/Criar um backup para obsidian.md",
+    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Redação.md",
+    "Tipos de Notas/Notas Rápidas (Fleeting)/Notas Rápidas (Fleeting).md",
+    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Introdução.md",
+    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Conclusão + proposta de intervenção.md",
+    "Pensamento - Título curto.md",
+    "Tipos de Notas/Notas Permanentes/Estruturação da redação - como deve ser feito.md",
+    "Tipos de Notas/Notas de Referência (MOCs)/Notas de Referência (MOCs).md",
+    "Tipos de Notas/Notas de Leitura (Literature)/Notas de Leitura (Literature).md",
+    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Desenvolvimento.md",
+    "Tipos de Notas/Notas Permanentes/Notas Permanentes.md",
+    "Tipos de Notas/Mapa de Erros/Erro - Dificuldade de desenvolver o tema.md",
+    "Tipos de Notas/Mapa de Erros/Mapa de Erros.md",
+    "Imagens",
+    "Imagens/Introdução - redação.png",
+    "Imagens/Desenvolvimento - redação.png",
+    "Imagens/Conclusão - redação.png",
+    "Tipos de Notas/Notas Permanentes/Adição e Subtração.md",
+    "Tipos de Notas/Notas de Referência (MOCs)/MOC - História e Geografia.md",
+    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Física.md",
+    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Química.md",
+    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Matématica.md",
+    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Inglês.md",
+    "Pasted image 20260426201633.png",
+    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Português.md",
+    "Foto do Obsidian - Começo dos Meus Estudos.png",
+    "2026-04-26.md",
+    "Sem título.base",
+    "Captura de tela 2026-04-25 203922.png",
+    "Tipos de Notas/Notas Rápidas (Fleeting)/Lembrete (Criação de um site para empresa).md",
+    "Tipos de Notas/Mapa de Erros",
+    "Tipos de Notas/Notas de Referência (MOCs)/Sem título",
+    "Tipos de Notas/Sem título 2/Sem título.md",
+    "Tipos de Notas/Notas de Referência (MOCs)",
+    "Tipos de Notas/Notas Permanentes",
+    "Tipos de Notas/Notas de Leitura (Literature)",
+    "Tipos de Notas/Notas Rápidas (Fleeting)",
+    "Tipos de Notas",
+    "Notas/2. Referencia/Readwise/_Revolução Francesa_.md",
+    "Notas/2. Referencia/Ferretto.md",
+    "Notas/3. Literatura/Causas da Revolução Francesa.md",
+    "Notas/2. Referencia/Readwise"
   ]
 }
