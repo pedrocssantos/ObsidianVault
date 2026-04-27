@@ -11,10 +11,14 @@
             "id": "051d37946e7c3363",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Tipos de Notas/Notas de Referência (MOCs)/MOC - Matématica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC - Matématica"
             }
           }
         ]
@@ -216,9 +220,11 @@
   },
   "active": "051d37946e7c3363",
   "lastOpenFiles": [
+    "Tipos de Notas/Mapa de Erros/Erro - Dificuldade de desenvolver o tema.md",
+    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Redação.md",
+    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Matématica.md",
     "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Desenvolvimento.md",
     "Tipos de Notas/Notas Rápidas (Fleeting)/Criar um backup para obsidian.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Redação.md",
     "Tipos de Notas/Notas Rápidas (Fleeting)/Notas Rápidas (Fleeting).md",
     "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Introdução.md",
     "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Conclusão + proposta de intervenção.md",
@@ -227,7 +233,6 @@
     "Tipos de Notas/Notas de Referência (MOCs)/Notas de Referência (MOCs).md",
     "Tipos de Notas/Notas de Leitura (Literature)/Notas de Leitura (Literature).md",
     "Tipos de Notas/Notas Permanentes/Notas Permanentes.md",
-    "Tipos de Notas/Mapa de Erros/Erro - Dificuldade de desenvolver o tema.md",
     "Tipos de Notas/Mapa de Erros/Mapa de Erros.md",
     "Imagens",
     "Imagens/Introdução - redação.png",
@@ -256,7 +261,6 @@
     "Tipos de Notas",
     "Notas/2. Referencia/Readwise/_Revolução Francesa_.md",
     "Notas/2. Referencia/Ferretto.md",
-    "Notas/3. Literatura/Causas da Revolução Francesa.md",
     "Notas/2. Referencia/Readwise"
   ]
 }
