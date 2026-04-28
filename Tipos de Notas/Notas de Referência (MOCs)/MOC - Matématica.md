@@ -1,2 +1,5 @@
 ## Fundamentos:
-- [[Adição e Subtração]]
+[[Adição e Subtração]]
+
+## Consolidação
+[[Matemática - Adição e Subtração (Consolidação)]]
