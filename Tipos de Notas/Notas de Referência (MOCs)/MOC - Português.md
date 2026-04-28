@@ -1,0 +1,2 @@
+## **Fundamentos:**
+[[Fonética e Fonologia]]
