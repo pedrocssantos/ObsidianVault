@@ -15,7 +15,8 @@
 	- Acentuam-se as oxítonas terminadas em: A(S), E(S), O(S), EM(ENS), ditongo. Exemplo: PA-RA-NÁ, CA-FÉ, CI-PÓ, TAM-BÉM, PA-RA-BÉNS
 - Paroxítonas
 	- Acentuam-se as paroxítonas terminadas em: L, I(S), N, US, PS, Ã, R, UM, UNS, ON, X, ÃO, ditongo. Exemplo: FÁ-CIL, FÊ-NIX, Í-ON, SÉ-RIE, ÁL-BUM
-- pR
+- Proparoxítonas
+	- Todas as proparoxítonas são acentuadas. Exemplo: ÁR-VO-RE
 
 
 
