@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tipos de Notas/Notas Permanentes/Português - Fonética e fonema (Consolidação).md",
+                "file": "Tipos de Notas/Notas de Referência (MOCs)/MOC - História e Geografia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Português - Fonética e fonema (Consolidação)"
+              "title": "MOC - História e Geografia"
+            }
+          },
+          {
+            "id": "7862828bd6650f95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O BRASIL COLÔNIA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O BRASIL COLÔNIA"
             }
           },
           {
@@ -93,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bfd69cca07db23c9",
@@ -233,8 +248,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "303908647f00bfa1",
+  "active": "7862828bd6650f95",
   "lastOpenFiles": [
+    "O BRASIL COLÔNIA.md",
+    "Tipos de Notas/Notas de Referência (MOCs)/MOC - História e Geografia.md",
     "Tipos de Notas/Notas Permanentes/Português - Fonética e fonema (Consolidação).md",
     "Tipos de Notas/Notas de Leitura (Literature)/Fonética e Fonologia.md",
     "Tipos de Notas/Notas de Referência (MOCs)/MOC - Matématica.md",
@@ -259,7 +276,6 @@
     "Imagens/Desenvolvimento - redação.png",
     "Imagens/Conclusão - redação.png",
     "Tipos de Notas/Notas Permanentes/Adição e Subtração.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - História e Geografia.md",
     "Tipos de Notas/Notas de Referência (MOCs)/MOC - Física.md",
     "Tipos de Notas/Notas de Referência (MOCs)/MOC - Química.md",
     "Tipos de Notas/Notas de Referência (MOCs)/MOC - Inglês.md",
@@ -268,7 +284,6 @@
     "2026-04-26.md",
     "Sem título.base",
     "Captura de tela 2026-04-25 203922.png",
-    "Tipos de Notas/Notas Rápidas (Fleeting)/Lembrete (Criação de um site para empresa).md",
     "Tipos de Notas/Mapa de Erros",
     "Tipos de Notas/Notas de Referência (MOCs)/Sem título",
     "Tipos de Notas/Notas de Referência (MOCs)",
