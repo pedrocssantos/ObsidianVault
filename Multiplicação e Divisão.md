@@ -37,6 +37,11 @@ Criação: 2026-04-28
 ### Operação de divisão entre números inteiros
 D = d . q + R 
 - Quando o resto é zero, chamamos de divisão exata  
- 
+
+### Operação de divisão entre números decimais
+- Precisamos igualar as casas decimais e cancelamos as virgulas
+
+**Exemplo:**
+7,2 / 3 = 7,2 / 3,0 = 72 / 30
 
 [MULTIPLICAÇÃO E DIVISÃO: Operações com Números Inteiros e Decimais | Matemática Básica - Aula 2](https://www.youtube.com/watch?v=0UGJRHq2PS4&list=PLTPg64KdGgYhYpS5nXdFgdqEZDOS5lARB&index=2)
