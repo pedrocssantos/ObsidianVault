@@ -3,6 +3,37 @@ Criação: 2026-04-28
 ---
 [[MOC - História e Geografia]]
 
+## Mercantilismo Português
+
+**PERÍODO PRÉ-COLONIAL ( 1500-1534 )**
+- Sem um sistema administrativo no Brasil
+- Expedições guarda-costeira para reconhecimento do território
+- Extração do pau-brasil
+- Corsários franceses
+- Escambo com os povos indígenas
+- Instalação de feitorias (pontos de comércio)
+
+**CAPITANIAS HEREDITARIAS ( 1534-1548 )**
+- Primeiro sistema administrativo.
+- Capitães donatários.
+- Capitanias independentes entre si.
+- Forais direitos e deveres dos capitães.
+- Sesmarias: grandes proporções de terras.
+
+**GOVERNO GERAL ( 1548 )**
+- Centralização administrativa
+- Chegada dos jesuítas
+- Formação de vilas como São Salvador, São Paulo e Rio de Janeiro.
+- Expulsão dos franceses.
+- Homens bons: latifundiários que administravam as vilas pelas câmaras municipais
+
+**ECONOMIA:**
+- **Cana-de-açúcar:** Escravização de africano e monocultura voltada para o mercado europeu
+- **Pecuária extensiva:** Não de obra libre voltada para o mercado interno responsável ocupação do sertão
+- **Drogas do sertão:** Exploração por entrada e bandeiras na extensão do rio amazonas.
+- **Mineração (século XVIII):** Responsável pela mudança do eixo econômico do norte para o sul.
+	- Tropeirismo: Comerciantes importantes que abasteciam a região mineradora.
+	- Em Sorocaba-SP tinha um importante entreposto comercial para os tropeiros.
 
 
 [O BRASIL COLÔNIA](https://www.youtube.com/watch?v=qtwz_HKqUUg)
