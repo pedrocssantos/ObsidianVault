@@ -50,6 +50,6 @@ Criação: 2026-04-28
 - **Escravização de africanos:** Forte apelo econômico e circulação de capitais pelo comércio triangular
 - A resistência das pessoas escravizadas não se fazia apenas por guerras, mas, culturalmente, com a preservação de sua cultura matriz, mesmo sofrendo com a influência cristã europeia.
 - Não há passividade por parte dos escravizados, indígenas ou africanos.
-- Quilombos: organizações de resistência, formados principalmente por ex-escravizados de origem africana, os quilombos componham redes fortificadas, com cidades e hierarquia.
+- Quilombos: organizações de **resistência**, formados principalmente por ex-escravizados de origem africana, os quilombos componham redes fortificadas, com cidades e hierarquia.
 
 [O BRASIL COLÔNIA](https://www.youtube.com/watch?v=qtwz_HKqUUg)
