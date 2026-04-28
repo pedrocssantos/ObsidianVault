@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tipos de Notas/Notas de Referência (MOCs)/MOC - Matématica.md",
+                "file": "Tipos de Notas/Notas de Leitura (Literature)/Adição e Subtração.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MOC - Matématica"
+              "title": "Adição e Subtração"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bfd69cca07db23c9",
@@ -236,7 +235,8 @@
   },
   "active": "56e36e9b54852d7a",
   "lastOpenFiles": [
-    "Adição e Subtração.md",
+    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Conclusão + proposta de intervenção.md",
+    "Tipos de Notas/Notas de Leitura (Literature)/Adição e Subtração.md",
     "Tipos de Notas/Notas de Referência (MOCs)/MOC - Matématica.md",
     "Tipos de Notas/Notas de Referência (MOCs)/MOC - Redação.md",
     "Tipos de Notas/Mapa de Erros/Erro - Dificuldade de desenvolver o tema.md",
@@ -244,7 +244,6 @@
     "Tipos de Notas/Notas Rápidas (Fleeting)/Criar um backup para obsidian.md",
     "Tipos de Notas/Notas Rápidas (Fleeting)/Notas Rápidas (Fleeting).md",
     "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Introdução.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Conclusão + proposta de intervenção.md",
     "Pensamento - Título curto.md",
     "Tipos de Notas/Notas Permanentes/Estruturação da redação - como deve ser feito.md",
     "Tipos de Notas/Notas de Referência (MOCs)/Notas de Referência (MOCs).md",

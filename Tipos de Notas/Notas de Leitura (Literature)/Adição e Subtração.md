@@ -1,3 +1,7 @@
+---
+Criação: 2026-04-27
+---
+[[MOC - Matématica]]
 ### **Operação de adição entre números inteiros:**
 Devemos alinhar da direita para esquerda 
 
@@ -22,3 +26,5 @@ Manter a virgula embaixo de virgula
 **Notas:**
 1. Oposto de um número: 5 = - 5 || - ( - 3 ) = 3
 2. a - (b + c) = a - b - c || 8 + 3 - ( 4 - 9 ) = 11 - 4 + 9 = 16
+
+[ADIÇÃO E SUBTRAÇÃO: Aprenda Matemática do Zero | Matemática Básica - Aula 1](https://www.youtube.com/watch?v=e78_5WIssSU&list=PLTPg64KdGgYhYpS5nXdFgdqEZDOS5lARB&index=1)
