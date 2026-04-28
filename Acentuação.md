@@ -1,6 +1,5 @@
 [[MOC - Português]]
-
-## Acentuação gráfica 
+### Acentuação gráfica 
 - A acentuação existe para representar o mais próximo da fala na escrita.
 
 **Tonicidade das palavras (sílaba mais forte)** 
