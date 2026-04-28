@@ -48,6 +48,8 @@ Criação: 2026-04-28
 **ASPECTOS IMPORTANTES A CONSIDERAR:**
 - **Guerras justas ( 1570 ):** Guerras contra povos indígenas só eram autorizadas pela coroa portuguesa, caso uma etnia se mostrava hostil aos colonizadores.
 - **Escravização de africanos:** Forte apelo econômico e circulação de capitais pelo comércio triangular
-- A resistêcia
+- A resistência das pessoas escravizadas não se fazia apenas por guerras, mas, culturalmente, com a preservação de sua cultura matriz, mesmo sofrendo com a influência cristã europeia.
+- Não há passividade por parte dos escravizados, indígenas ou africanos.
+- Quilombos: organizações de resistência, formados principalmente por ex-escravizados de origem africana, os quilombos componham redes fortificadas, com cidades e hierarquia.
 
 [O BRASIL COLÔNIA](https://www.youtube.com/watch?v=qtwz_HKqUUg)
