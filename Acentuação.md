@@ -16,8 +16,6 @@
 - Paroxítonas
 	- Acentuam-se as paroxítonas terminadas em: L, I(S), N, US, PS, Ã, R, UM, UNS, ON, X, ÃO, ditongo. Exemplo: FÁ-CIL, FÊ-NIX, Í-ON, SÉ-RIE, ÁL-BUM
 - Proparoxítonas
-	- Todas as proparoxítonas são acentuadas. Exemplo: ÁR-VO-RE
-
-
+	- Todas as proparoxítonas são acentuadas. Exemplo: ÁR-VO-RE, MÚS-CU-LO, MÁS-CU-LO, MÍ-NI-MO
 
 [Acentuação ♫ Malha Funk da Acentuação ♫ [Prof Noslen]](https://www.youtube.com/watch?v=Sy_LUnePfRE&list=PLVSIjBSiJbYA0qq-UMZtyfGkAd-aDTO2N&index=4)
