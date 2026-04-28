@@ -35,6 +35,8 @@ Criação: 2026-04-28
 **Notação:**
 
 ### Operação de divisão entre números inteiros
+D = d . q + R 
+- Quando o resto é zero, chamamos de divisão exata
  
 
 [MULTIPLICAÇÃO E DIVISÃO: Operações com Números Inteiros e Decimais | Matemática Básica - Aula 2](https://www.youtube.com/watch?v=0UGJRHq2PS4&list=PLTPg64KdGgYhYpS5nXdFgdqEZDOS5lARB&index=2)
