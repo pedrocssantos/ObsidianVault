@@ -35,5 +35,19 @@ Criação: 2026-04-28
 	- Troteiríssimo: Comerciantes importantes que abasteciam a região mineradora.
 	- Em Sorocaba-SP tinha um importante entreposto comercial para os tropeiros.
 
+![[Pasted image 20260428184758.png|697]]
+
+**UNIÃO IBÉRICA E BRASIL HOLANDÊS:**
+- União ibérica ( 1580-1640 ): Portugal e Espanha ficam sob domínio do mesmo rei, Felipe II de Espanha.
+- Invasões holandesas:
+	- Holanda, inimiga da Espanha.
+	- Invasão em Salvador ( 1624-1625 ).
+	- Invasão em Pernambuco (  1630-1654 ).
+	- Crise da lavoura açucareira após a expulsão dos holandeses.
+
+**ASPECTOS IMPORTANTES A CONSIDERAR:**
+- **Guerras justas ( 1570 ):** Guerras contra povos indígenas só eram autorizadas pela coroa portuguesa, caso uma etnia se mostrava hostil aos colonizadores.
+- **Escravização de africanos:** Forte apelo econômico e circulação de capitais pelo comércio triangular
+- A resistêcia
 
 [O BRASIL COLÔNIA](https://www.youtube.com/watch?v=qtwz_HKqUUg)
