@@ -52,4 +52,9 @@ Criação: 2026-04-28
 - Não há passividade por parte dos escravizados, indígenas ou africanos.
 - Quilombos: organizações de **resistência**, formados principalmente por ex-escravizados de origem africana, os quilombos componham redes fortificadas, com cidades e hierarquia.
 
+**MULHERES:**
+- Durante o governo geral, mulheres pobres e órfãs passaram a cruzar o atlântico a mando de D. João III e a pedido do líder jesuíta Manoel da Nóbrega, para se casarem com os exploradores.
+- As mulheres da elite poderiam ter cotidianos diversos, dependendo do lugar na colônia, porém, em geral, não tinha direito a voz, nem herança dos bens do marido devendo ser reprodutoras sexuais, garantindo os dores da família através de um filho homem.
+- Utilização de rótulas em portas e janelas para preservar e esconder o interior das residências.
+
 [O BRASIL COLÔNIA](https://www.youtube.com/watch?v=qtwz_HKqUUg)
