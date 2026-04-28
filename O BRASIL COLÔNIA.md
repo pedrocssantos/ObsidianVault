@@ -32,7 +32,7 @@ Criação: 2026-04-28
 - **Pecuária extensiva:** Não de obra libre voltada para o mercado interno responsável ocupação do sertão
 - **Drogas do sertão:** Exploração por entrada e bandeiras na extensão do rio amazonas.
 - **Mineração (século XVIII):** Responsável pela mudança do eixo econômico do norte para o sul.
-	- Tropeirismo: Comerciantes importantes que abasteciam a região mineradora.
+	- Troteiríssimo: Comerciantes importantes que abasteciam a região mineradora.
 	- Em Sorocaba-SP tinha um importante entreposto comercial para os tropeiros.
 
 
