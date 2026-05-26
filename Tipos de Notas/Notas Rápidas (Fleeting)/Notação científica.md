@@ -290,15 +290,15 @@ $$
 
 ## 15. PREFIXOS DO SI (conversão com notação)
 
-| Prefixo | Símbolo | Fator | Notação |
-|---------|---------|-------|---------|
-| quilo | k | $10^{3}$ | $1\ \mathrm{km} = 10^{3}\ \mathrm{m}$ |
-| mega | M | $10^{6}$ | $1\ \mathrm{MW} = 10^{6}\ \mathrm{W}$ |
-| giga | G | $10^{9}$ | $1\ \mathrm{GHz} = 10^{9}\ \mathrm{Hz}$ |
-| mili | m | $10^{-3}$ | $1\ \mathrm{mm} = 10^{-3}\ \mathrm{m}$ |
-| micro | μ | $10^{-6}$ | $1\ \mathrm{μm} = 10^{-6}\ \mathrm{m}$ |
-| nano | n | $10^{-9}$ | $1\ \mathrm{nm} = 10^{-9}\ \mathrm{m}$ |
-| pico | p | $10^{-12}$ | $1\ \mathrm{pF} = 10^{-12}\ \mathrm{F}$ |
+| Prefixo | Símbolo | Fator      | Notação                                 |
+| ------- | ------- | ---------- | --------------------------------------- |
+| quilo   | k       | $10^{3}$   | $1\ \mathrm{km} = 10^{3}\ \mathrm{m}$   |
+| mega    | M       | $10^{6}$   | $1\ \mathrm{MW} = 10^{6}\ \mathrm{W}$   |
+| giga    | G       | $10^{9}$   | $1\ \mathrm{GHz} = 10^{9}\ \mathrm{Hz}$ |
+| mili    | m       | $10^{-3}$  | $1\ \mathrm{mm} = 10^{-3}\ \mathrm{m}$  |
+| micro   | μ       | $10^{-6}$  | $1\ \mathrm{μm} = 10^{-6}\ \mathrm{m}$  |
+| nano    | n       | $10^{-9}$  | $1\ \mathrm{nm} = 10^{-9}\ \mathrm{m}$  |
+| pico    | p       | $10^{-12}$ | $1\ \mathrm{pF} = 10^{-12}\ \mathrm{F}$ |
 
 ---
 
@@ -407,3 +407,338 @@ Isso é o que aparece em 100% das questões de física/química do EsPCEx/ESA. [
 ================================================================================
 FIM DO TEMPLATE — Salve nas suas notas do Obsidian e use como referência
 ================================================================================
+
+## RAIZ QUADRADA
+
+Inline: $\sqrt{16} = 4$
+
+Raiz com índice: $\sqrt[3]{27} = 3$
+
+Raiz no bloco:
+
+$$
+\sqrt{a^2 + b^2}
+$$
+
+Raiz de expressão complexa:
+
+$$
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+
+---
+
+## DELTA (discriminante da equação quadrática)
+
+Delta simples: $\Delta = b^2 - 4ac$
+
+Delta no bloco:
+
+$$
+\Delta = b^2 - 4ac
+$$
+
+Delta maiúsculo vs minúsculo:
+- $\Delta$ (maiúsculo, triângulo) — usado para delta de equação
+- $\delta$ (minúsculo) — usado para variação pequena [web:51]
+
+---
+
+## FÓRMULA DE BHASKARA COMPLETA
+
+$$
+x = \frac{-b \pm \sqrt{\Delta}}{2a}
+$$
+
+$$
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+
+---
+
+## EXEMPLO PRÁTICO COMPLETO
+
+$$
+\begin{aligned}
+\text{Equação: } & x^2 - 5x + 6 = 0 \\
+\Delta &= (-5)^2 - 4(1)(6) \\
+\Delta &= 25 - 24 \\
+\Delta &= 1 \\
+x' &= \frac{-(-5) + \sqrt{1}}{2(1)} = \frac{5 + 1}{2} = 3 \\
+x'' &= \frac{-(-5) - \sqrt{1}}{2(1)} = \frac{5 - 1}{2} = 2
+\end{aligned}
+$$
+
+---
+
+## OPERAÇÕES COM RAÍZES
+
+$$
+\sqrt{a} \cdot \sqrt{b} = \sqrt{ab}
+$$
+
+$$
+\frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}}
+$$
+
+$$
+\sqrt{a^2} = |a|
+$$
+
+---
+
+## RAIZ DE NOTAÇÃO CIENTÍFICA
+
+$$
+\sqrt{4 \times 10^{6}} = 2 \times 10^{3}
+$$
+
+$$
+\sqrt{9 \times 10^{-4}} = 3 \times 10^{-2}
+$$
+
+---
+
+## OUTROS SÍMBOLOS QUE VOCÊ VAI USAR
+
+### Frações
+
+Inline: $\frac{a}{b}$
+
+Bloco:
+
+$$
+\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+
+### Somatório
+
+$$
+\sum_{i=1}^{n} x_i
+$$
+
+### Produto
+
+$$
+\prod_{i=1}^{n} x_i
+$$
+
+### Integrais
+
+$$
+\int_{a}^{b} f(x)\,dx
+$$
+
+$$
+\int x^2\,dx = \frac{x^3}{3} + C
+$$
+
+### Limites
+
+$$
+\lim_{x \to 0} \frac{\sin x}{x} = 1
+$$
+
+### Números reais, naturais, etc.
+
+$\mathbb{R}$ — reais
+
+$\mathbb{N}$ — naturais
+
+$\mathbb{Z}$ — inteiros
+
+$\mathbb{Q}$ — racionais
+
+### Símbolos de comparação
+
+$\neq$ — diferente
+
+$\leq$ — menor ou igual
+
+$\geq$ — maior ou igual
+
+$\approx$ — aproximadamente
+
+$\propto$ — proporcional
+
+### Operações
+
+$a \pm b$ — mais ou menos
+
+$a \cdot b$ — produto (ponto)
+
+$a \times b$ — produto (cruz)
+
+$\div$ — divisão
+
+### Letras gregas (usadas em física)
+
+$\alpha$ — alfa
+
+$\beta$ — beta
+
+$\gamma$ — gama
+
+$\delta$ — delta minúsculo
+
+$\Delta$ — delta maiúsculo
+
+$\theta$ — theta
+
+$\lambda$ — lambda
+
+$\mu$ — micro
+
+$\pi$ — pi
+
+$\rho$ — rho
+
+$\sigma$ — sigma
+
+$\Phi$ — fi
+
+---
+
+## TABELA COMPLETA DE SÍMBOLOS MATEMÁTICOS
+
+| Símbolo | LaTeX | Uso |
+|---------|-------|-----|
+| $\sqrt{}$ | `\sqrt{}` | Raiz quadrada |
+| $\sqrt[3]{}$ | `\sqrt[3]{}` | Raiz cúbica |
+| $\Delta$ | `\Delta` | Discriminante (quadrática) |
+| $\delta$ | `\delta` | Variação pequena |
+| $\pm$ | `\pm` | Mais ou menos |
+| $\mp$ | `\mp` | Menos ou mais |
+| $\frac{}{}$ | `\frac{}{}` | Fração |
+| $\sum$ | `\sum` | Somatório |
+| $\int$ | `\int` | Integral |
+| $\lim$ | `\lim` | Limite |
+| $\infty$ | `\infty` | Infinito |
+| $\neq$ | `\neq` | Diferente |
+| $\leq$ | `\leq` | Menor ou igual |
+| $\geq$ | `\geq` | Maior ou igual |
+| $\approx$ | `\approx` | Aproximadamente |
+| $\in$ | `\in` | Pertence |
+| $\notin$ | `\notin` | Não pertence |
+| $\forall$ | `\forall` | Para todo |
+| $\exists$ | `\exists` | Existe |
+| $\Rightarrow$ | `\Rightarrow` | Implica |
+| $\Leftrightarrow$ | `\Leftrightarrow` | Se e somente se |
+| $\circ$ | `\circ` | Composição |
+| $\circ$ | `\circ` | Comprimento |
+| $^\circ$ | `^{\circ}` | Graus (ângulo) |
+| $\mathbb{R}$ | `\mathbb{R}` | Reais |
+| $\mathbb{N}$ | `\mathbb{N}` | Naturais |
+| $\mathbb{Z}$ | `\mathbb{Z}` | Inteiros |
+
+---
+
+## FRASES COMPLETAS PARA EXERCÍCIOS
+
+**Equação do 2º grau:**
+
+$$
+\begin{aligned}
+\text{Dada: } & ax^2 + bx + c = 0 \\
+\text{Delta: } & \Delta = b^2 - 4ac \\
+\text{Se } & \Delta > 0 \Rightarrow \text{2 raízes reais distintas} \\
+\text{Se } & \Delta = 0 \Rightarrow \text{1 raiz real (dupla)} \\
+\text{Se } & \Delta < 0 \Rightarrow \text{2 raízes complexas} \\
+\text{Raízes: } & x = \frac{-b \pm \sqrt{\Delta}}{2a}
+\end{aligned}
+$$
+
+**Teorema de Pitágoras:**
+
+$$
+a^2 + b^2 = c^2 \Rightarrow c = \sqrt{a^2 + b^2}
+$$
+
+**Fórmula de área com raiz:**
+
+$$
+A = \frac{\sqrt{3}}{4} \cdot L^2 \quad \text{(triângulo equilátero)}
+$$
+
+---
+
+## ERROS COMUNS
+
+| Errado | Certo | Problema |
+|--------|-------|----------|
+| `$\sqrt 16$` | `$\sqrt{16}$` | Chaves sempre |
+| `$delta$` | `$\Delta$` | Delta maiúsculo = `\Delta` [web:51] |
+| `$\sqrtb^2 - 4ac$` | `$\sqrt{b^2 - 4ac}$` | Chaves envolvem tudo |
+| `$\frac a b$` | `$\frac{a}{b}$` | Chaves explícitas |
+| `$\int x^2 dx$` | `$\int x^2\,dx$` | Espaço `\,` antes de `dx` |
+
+---
+
+## SNIPPETS PARA COPIAR/RABISCAR
+
+### Bhaskara completo
+```markdown
+$$
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
+```
+
+### Delta simples
+```markdown
+$\Delta = b^2 - 4ac$
+```
+
+### Raiz quadrada de expressão
+```markdown
+$\sqrt{a^2 + b^2}$
+```
+
+### Raiz cúbica
+```markdown
+$\sqrt{27} = 3$[1]
+```
+
+### Bhaskara passo a passo
+```markdown
+$$
+\begin{aligned}
+\Delta &= b^2 - 4ac \\
+x' &= \frac{-b + \sqrt{\Delta}}{2a} \\
+x'' &= \frac{-b - \sqrt{\Delta}}{2a}
+\end{aligned}
+$$
+```
+
+---
+
+## PLUGINS ÚTEIS (opcional, não obrigatórios)
+
+Se você quiser **melhorar experiência** com matemática:
+
+| Plugin | O que faz | Vale a pena? |
+|--------|-----------|--------------|
+| **Latex Suite** | Snippets de LaTeX, atalhos para matemática | SIM — acelera digitação [web:45] |
+| **Obsidian Desmos** | Gráficos de funções 2D | SIM — se você estuda cálculo/funções [web:45] |
+| **LaTeX Math** | Calculadora simbólica com SymPy | SIM — resolve equações no vault [web:53] |
+| **Obsidian Solve** | Calculadora inline | SIM — cálculos rápidos [web:52] |
+| **Mathlive** | Editor visual de fórmulas | Opcional — editor gráfico |
+
+**Ponto crucial:** Você **NÃO PRECISA** de plugins para raiz, delta, Bhaskara, notação científica — tudo isso funciona **nativamente** com MathJax [web:44][web:55]. Plugins só aceleram fluxo, não adicionam funcionalidade básica.
+
+---
+
+## PÔ, PEDRO, ESCUTA AQUI
+
+Você quer **"tudo"**. Aqui está a verdade dura:
+
+| Formato | Código | Quando usar |
+|---------|--------|-------------|
+| Raiz quadrada | `\sqrt{}` | 90% das raízes |
+| Raiz cúbica | `\sqrt[3]{}` | Raiz cúbica |
+| Raiz enésima | `\sqrt[n]{}` | Raiz de índice qualquer |
+| Delta | `\Delta` | Equação do 2º grau |
+| Bhaskara | `\frac{-b \pm \sqrt{\Delta}}{2a}` | Resolução completa |
+
+Isso é **95% do que você vai usar** no EsPCEx/ESA. O resto é detalhe. [web:44][web:55]
+
+Quer que eumonte um **template único** com tudo isso + 10 exercícios-modelo de álgebra/física para você só copiar e estudar?
