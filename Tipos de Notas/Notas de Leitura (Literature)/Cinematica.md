@@ -39,7 +39,7 @@ $9{,}11 \times 10^{-31}\ \mathrm{kg}$
 A ordem de grandeza de uma medida é a pontencia de 10 mais proxima desta medida. Perceba que a O.G é uma aproximação. Ultilizando a notação padrão, teremos o valor da medida sempre compreendida no intervalo: 
 
 $$
-10^{e}\ c\ \times10^{e}\ < 10^{e} \plus 
+10^{e}\ c\ \times10^{e}\ < 10^{e}\ + 1
 $$
 
 [Física Total - Aula 01 - Grandezas Físicas, Notação Padrão e Ordem de Grandeza](https://www.youtube.com/watch?v=MLEZI03kUkE&list=PLnvUhOKqMcbnMEmmt85_MsdekydsJUrAO&index=2)
