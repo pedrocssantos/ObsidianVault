@@ -318,15 +318,15 @@ $$
 
 ## 17. ERROS COMUNS (evite isso)
 
-| Errado | Certo | Problema |
-|--------|-------|----------|
-| `$3x10^8$` | `$3 \times 10^{8}$` | Falta espaço e `\times` |
-| `$3*10^8$` | `$3 \times 10^{8}$` | `*` não é padrão matemático |
-| `$10^-3$` | `$10^{-3}$` | Expoente precisa de chaves |
-| `$3.2 \times 10^4$` | `$3{,}2 \times 10^{4}$` | Ponto ≠ vírgula (PT-BR) |
-| `$3 \times 10^8 m/s$` | `$3 \times 10^{8}\ \mathrm{m/s}$` | Unidade em itálico (errado) |
-| `$0{,}5 \times 10^{3}$` | `$5 \times 10^{2}$` | Coeficiente < 1 (não é padrão) |
-| `$15 \times 10^{6}$` | `$1{,}5 \times 10^{7}$` | Coeficiente ≥ 10 (não é padrão) |
+| Errado                  | Certo                             | Problema                        |
+| ----------------------- | --------------------------------- | ------------------------------- |
+| `$3x10^8$`              | `$3 \times 10^{8}$`               | Falta espaço e `\times`         |
+| `$3*10^8$`              | `$3 \times 10^{8}$`               | `*` não é padrão matemático     |
+| `$10^-3$`               | `$10^{-3}$`                       | Expoente precisa de chaves      |
+| `$3.2 \times 10^4$`     | `$3{,}2 \times 10^{4}$`           | Ponto ≠ vírgula (PT-BR)         |
+| `$3 \times 10^8 m/s$`   | `$3 \times 10^{8}\ \mathrm{m/s}$` | Unidade em itálico (errado)     |
+| `$0{,}5 \times 10^{3}$` | `$5 \times 10^{2}$`               | Coeficiente < 1 (não é padrão)  |
+| `$15 \times 10^{6}$`    | `$1{,}5 \times 10^{7}$`           | Coeficiente ≥ 10 (não é padrão) |
 
 ---
 

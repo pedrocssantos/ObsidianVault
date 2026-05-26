@@ -39,7 +39,27 @@ $9{,}11 \times 10^{-31}\ \mathrm{kg}$
 A ordem de grandeza de uma medida é a pontencia de 10 mais proxima desta medida. Perceba que a O.G é uma aproximação. Ultilizando a notação padrão, teremos o valor da medida sempre compreendida no intervalo: 
 
 $$
-10^{e}\ c\ \times10^{e}\ < 10^{e}\ + 1
+10^{e}\ <= c\ \times10^{e}\ < 10^{e}\ + 1
 $$
+
+Para determinarmos a O.G. da medida, basta observar se o valor de c está mais próximo de 1 ou de 10 ou seja:
+* Para C ~ 1 tem-se que O.G. (n) = $10^{e}$
+* Para C ~ 10  tem-se que O.G. (n) = $10^{e+1}$ 
+
+Outra forma para você lembrar como determinar a O.G. é através do ponto médio do intervalo 1 ≤ c < 10.
+
+* Para c < 5,5 c ~ 1 tem-se que O.G. (n) = $10^{e}$
+* Para c ≥ 5,5, c ~ 10 tem-se que O.G. (n) = $10^{e+1}$
+
+Exemplo: Massa de um elefante = 4.000 kg
+
+$$
+4 \times 10^{3}\ \mathrm{kg}
+$$
+Como 3 < 5,5 temo 0.G. (massa) = $10^{3}\ \mathrm{kg}$
+
+Outra forma para você lembrar como determinar a O.G. é através da média geométrica do intervalo 1 ≤ c < 10.
+
+MG = 
 
 [Física Total - Aula 01 - Grandezas Físicas, Notação Padrão e Ordem de Grandeza](https://www.youtube.com/watch?v=MLEZI03kUkE&list=PLnvUhOKqMcbnMEmmt85_MsdekydsJUrAO&index=2)

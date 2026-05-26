@@ -35,7 +35,8 @@
               "title": "Notação científica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "bfd69cca07db23c9",
@@ -232,10 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "222baa73c711c9e2",
+  "active": "9cad3b65135b79ed",
   "lastOpenFiles": [
-    "Tipos de Notas/Notas Rápidas (Fleeting)/Notação científica.md",
     "Tipos de Notas/Notas de Leitura (Literature)/Cinematica.md",
+    "Tipos de Notas/Notas Rápidas (Fleeting)/Notação científica.md",
     "Tipos de Notas/Notas de Referência (MOCs)/MOC - Física.md",
     "Tipos de Notas/Notas de Leitura (Literature)/Adição e Subtração.md",
     "guia-markdown.pdf",
