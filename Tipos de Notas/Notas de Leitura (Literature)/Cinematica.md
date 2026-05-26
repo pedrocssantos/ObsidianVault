@@ -29,4 +29,17 @@ $3 \times 10^8\ \mathrm{m/s}$
 Carga elementar (Qe) = 0,000 000 000 000 000 000 16 C
 $1,6 \times 10^{-19}\ C$
 
+Constante de Avogadro = 602 000 000 000 000 000 000 000 mol$^{-1}$
+
+Massa de repouso do elétron = 0,000 000 000 000 000 000 000 000 000 000 911 kg
+$9{,}11 \times 10^{-31}\ \mathrm{kg}$
+
+### Ordem de grandeza
+
+A ordem de grandeza de uma medida é a pontencia de 10 mais proxima desta medida. Perceba que a O.G é uma aproximação. Ultilizando a notação padrão, teremos o valor da medida sempre compreendida no intervalo: 
+
+$$
+10^{e}\ c\ \times10^{e}  
+$$
+
 [Física Total - Aula 01 - Grandezas Físicas, Notação Padrão e Ordem de Grandeza](https://www.youtube.com/watch?v=MLEZI03kUkE&list=PLnvUhOKqMcbnMEmmt85_MsdekydsJUrAO&index=2)
