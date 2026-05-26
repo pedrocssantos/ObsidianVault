@@ -27,6 +27,7 @@ $$
 Exemplo: Velocidade da luz no vácuo = 300.000.000 m/s
 $$
 3 x 10^8 m/s
-$$
+$$Carga elementar (Qe) = 0,000 000 000 000 000 000 16 C
+$$1,6x10^[-19]C$$
 
 [Física Total - Aula 01 - Grandezas Físicas, Notação Padrão e Ordem de Grandeza](https://www.youtube.com/watch?v=MLEZI03kUkE&list=PLnvUhOKqMcbnMEmmt85_MsdekydsJUrAO&index=2)
