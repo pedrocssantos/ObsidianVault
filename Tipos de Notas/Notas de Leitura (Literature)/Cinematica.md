@@ -60,6 +60,6 @@ Como 3 < 5,5 temo 0.G. (massa) = $10^{3}\ \mathrm{kg}$
 
 Outra forma para você lembrar como determinar a O.G. é através da média geométrica do intervalo 1 ≤ c < 10.
 
-MG = 
+MG = c
 
 [Física Total - Aula 01 - Grandezas Físicas, Notação Padrão e Ordem de Grandeza](https://www.youtube.com/watch?v=MLEZI03kUkE&list=PLnvUhOKqMcbnMEmmt85_MsdekydsJUrAO&index=2)
