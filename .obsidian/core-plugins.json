@@ -7,11 +7,7 @@
   "canvas": true,
   "outgoing-link": true,
   "tag-pane": true,
-<<<<<<< HEAD
   "footnotes": false,
-=======
-  "footnotes": true,
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
   "properties": true,
   "page-preview": true,
   "daily-notes": true,
@@ -21,22 +17,13 @@
   "slash-command": false,
   "editor-status": true,
   "bookmarks": true,
-<<<<<<< HEAD
   "markdown-importer": false,
-=======
-  "markdown-importer": true,
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
   "zk-prefixer": false,
   "random-note": false,
   "outline": true,
   "word-count": true,
-<<<<<<< HEAD
   "slides": false,
   "audio-recorder": false,
-=======
-  "slides": true,
-  "audio-recorder": true,
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
   "workspaces": false,
   "file-recovery": true,
   "publish": false,

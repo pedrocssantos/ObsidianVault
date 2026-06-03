@@ -1,107 +1,37 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "4b1aa428b52fcb43",
+    "id": "08372a9de932780e",
     "type": "split",
     "children": [
       {
-        "id": "0a97445a27a6f93c",
+        "id": "d841635c968f558a",
         "type": "tabs",
         "children": [
           {
-            "id": "7504264fad408d70",
-=======
-    "id": "44065a245cb8479d",
-    "type": "split",
-    "children": [
-      {
-        "id": "b06564daf0628647",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "222baa73c711c9e2",
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
+            "id": "8c40ed51f076af0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Bem-vindo.md",
-=======
-                "file": "Tipos de Notas/Notas de Leitura (Literature)/Cinematica.md",
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Bem-vindo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ecce11ceabe618e7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2667ec5fcc325179",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
-=======
-              "title": "Cinematica"
-            }
-          },
-          {
-            "id": "9cad3b65135b79ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tipos de Notas/Notas Rápidas (Fleeting)/Notação científica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notação científica"
-            }
-          }
-        ],
-        "currentTab": 1
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "d93f204141d73216",
+    "id": "2fef9121e9475c5d",
     "type": "split",
     "children": [
       {
-        "id": "110b5eeeca687fcd",
+        "id": "0ca2729595b38310",
         "type": "tabs",
         "children": [
           {
-            "id": "875aa5e894ca4689",
-=======
-    "id": "51b8fc1ccef29e90",
-    "type": "split",
-    "children": [
-      {
-        "id": "ff2eff2e4f3ba434",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3fdb17ab00da681a",
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
+            "id": "546ce7509fe122b5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -114,20 +44,12 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "d89252b34f4cd5fc",
-=======
-            "id": "492b9c63ca040c68",
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
+            "id": "c54de99e181825fe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
                 "query": "",
-=======
-                "query": "tag:#Introdução",
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,11 +61,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "9a5d1a3619530f34",
-=======
-            "id": "5e71bd7001dab85a",
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
+            "id": "26d09da691a880d5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -156,86 +74,49 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
     "width": 300
   },
   "right": {
-    "id": "f40f65524a1b23aa",
+    "id": "79c1728f7c1afc09",
     "type": "split",
     "children": [
       {
-        "id": "694e625e87f073fb",
+        "id": "c589343cd2e24ce3",
         "type": "tabs",
         "children": [
           {
-            "id": "6dbf8567cc19b6b5",
-=======
-    "width": 286.5,
-    "collapsed": true
-  },
-  "right": {
-    "id": "bfd69cca07db23c9",
-    "type": "split",
-    "children": [
-      {
-        "id": "e0fa469f010a3c79",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd6aa483288f8360",
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
+            "id": "a72553ac59e4ace9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Bem-vindo.md",
-=======
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-<<<<<<< HEAD
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Links inversos para Bem-vindo"
-            }
-          },
-          {
-            "id": "0752e271ac1a0f0f",
-=======
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Links inversos"
             }
           },
           {
-            "id": "4191c71ff2c56e35",
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
+            "id": "80ed220bb02082a4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bem-vindo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Bem-vindo"
+              "title": "Links de saída"
             }
           },
           {
-<<<<<<< HEAD
-            "id": "b922c1371eb6b7d7",
-=======
-            "id": "40460dd6d756bf88",
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
+            "id": "ea7ca2d447282594",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -250,11 +131,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "234bdcb844e4e627",
-=======
-            "id": "a28a6248c6615656",
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
+            "id": "53ba8f2e3d484014",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -268,61 +145,30 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "3c2cbc82c56ba936",
-=======
-            "id": "ab0278f75e3f94be",
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
+            "id": "7860d9cae53f2d6f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bem-vindo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Bem-vindo"
+              "title": "Sumário"
             }
-<<<<<<< HEAD
-          }
-        ]
-=======
           },
           {
-            "id": "52f9cef7f11ead05",
+            "id": "30e2a80a59759688",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "7ff4ff6f0191ad5a",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {},
-              "icon": "lucide-file-signature",
-              "title": "Notas de rodapé"
-            }
-          },
-          {
-            "id": "1a2356a6e955af37",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 7
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
+        ]
       }
     ],
     "direction": "horizontal",
@@ -331,116 +177,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-<<<<<<< HEAD
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
-=======
-      "graph:Abrir visualização em gráfico": false,
-      "switcher:Abrir a troca rápida": false,
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-<<<<<<< HEAD
-      "bases:Criar nova base": false
-    }
-  },
-  "active": "7504264fad408d70",
-  "lastOpenFiles": [
-    "README.md",
-    "Pasted image 20260428184758.png",
-    "O BRASIL COLÔNIA.md",
-    "Multiplicação e Divisão.md",
-    "LICENSE",
-    "guia-markdown.pdf",
-    "Acentuação.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/Notas de Referência (MOCs).md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Redação.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Português.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Matématica.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - História e Geografia.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Física.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Notas de Leitura (Literature).md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Fonética e Fonologia.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Introdução.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Desenvolvimento.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Conclusão + proposta de intervenção.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Cinematica.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Adição e Subtração.md",
-    "Tipos de Notas/Notas Rápidas (Fleeting)/Notação científica.md",
-    "Tipos de Notas/Notas Rápidas (Fleeting)/Notas Rápidas (Fleeting).md",
-    "Tipos de Notas/Notas Rápidas (Fleeting)/Criar um backup para obsidian.md",
-    "Tipos de Notas/Notas Permanentes/Português - Fonética e fonema (Consolidação).md",
-    "Tipos de Notas/Notas Permanentes/Notas Permanentes.md",
-    "Tipos de Notas/Notas Permanentes/Matemática - Adição e Subtração (Consolidação).md",
-    "Tipos de Notas/Notas Permanentes/Estruturação da redação - como deve ser feito.md",
-    "Tipos de Notas/Mapa de Erros/Mapa de Erros.md",
-    "Tipos de Notas/Mapa de Erros/Erro - Dificuldade de desenvolver o tema.md",
-    "Tipos de Notas/Notas de Referência (MOCs)",
-    "Tipos de Notas/Notas de Leitura (Literature)",
-    "Tipos de Notas/Notas Rápidas (Fleeting)",
-    "Tipos de Notas/Notas Permanentes",
-    "Tipos de Notas/Mapa de Erros",
-    "Tipos de Notas",
-    "Imagens/Introdução - redação.png",
-    "Imagens/Desenvolvimento - redação.png",
-    "Imagens/Conclusão - redação.png",
-    "Imagens"
-=======
       "bases:Criar nova base": false,
       "obsidian-kanban:Create new board": false,
-      "markdown-importer:Abrir importador Markdown": false,
-      "audio-recorder:Começar/parar a gravação de áudio": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cad3b65135b79ed",
-  "lastOpenFiles": [
-    "Tipos de Notas/Notas de Leitura (Literature)/Cinematica.md",
-    "Tipos de Notas/Notas Rápidas (Fleeting)/Notação científica.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Física.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Adição e Subtração.md",
-    "guia-markdown.pdf",
-    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Introdução.md",
-    "Acentuação.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Português.md",
-    "Multiplicação e Divisão.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Matématica.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - História e Geografia.md",
-    "O BRASIL COLÔNIA.md",
-    "Pasted image 20260428184758.png",
-    "Tipos de Notas/Notas Permanentes/Português - Fonética e fonema (Consolidação).md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Fonética e Fonologia.md",
-    "Tipos de Notas/Notas Permanentes/Matemática - Adição e Subtração (Consolidação).md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Conclusão + proposta de intervenção.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Desenvolvimento.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Notas de Leitura (Literature).md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Redação.md",
-    "Tipos de Notas/Notas Permanentes/Estruturação da redação - como deve ser feito.md",
-    "Tipos de Notas/Notas Permanentes/Notas Permanentes.md",
-    "Tipos de Notas/Mapa de Erros/Erro - Dificuldade de desenvolver o tema.md",
-    "Tipos de Notas/Notas Rápidas (Fleeting)/Criar um backup para obsidian.md",
-    "Tipos de Notas/Notas Rápidas (Fleeting)/Notas Rápidas (Fleeting).md",
-    "Pensamento - Título curto.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/Notas de Referência (MOCs).md",
-    "Tipos de Notas/Mapa de Erros/Mapa de Erros.md",
-    "Imagens",
-    "Imagens/Introdução - redação.png",
-    "Imagens/Desenvolvimento - redação.png",
-    "Imagens/Conclusão - redação.png",
-    "Pasted image 20260426201633.png",
-    "Foto do Obsidian - Começo dos Meus Estudos.png",
-    "Sem título.base",
-    "Captura de tela 2026-04-25 203922.png",
-    "Tipos de Notas/Mapa de Erros",
-    "Tipos de Notas/Notas de Referência (MOCs)/Sem título",
-    "Tipos de Notas/Notas de Referência (MOCs)",
-    "Tipos de Notas/Notas Permanentes",
-    "Tipos de Notas/Notas de Leitura (Literature)",
-    "Tipos de Notas/Notas Rápidas (Fleeting)",
-    "Tipos de Notas"
->>>>>>> 7951d5f21dc7e01569192f34372bdd5d271ebc5d
-  ]
+  "active": "8c40ed51f076af0d",
+  "lastOpenFiles": []
 }
