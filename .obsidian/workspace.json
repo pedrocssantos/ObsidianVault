@@ -11,12 +11,14 @@
             "id": "4b56fd198cde8eab",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "03 - Anexos/Imagens/Introdução - redação.png"
+                "file": "04 - Configurações & Rascunhos/Modelos/Template - MOC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Introdução - redação"
+              "icon": "lucide-file",
+              "title": "Template - MOC"
             }
           }
         ]
@@ -195,21 +197,23 @@
   },
   "active": "4b56fd198cde8eab",
   "lastOpenFiles": [
+    "04 - Configurações & Rascunhos/Modelos/Template - Nota de Estudo.md",
+    "04 - Configurações & Rascunhos/Modelos/Template - Registro de Erro.md",
+    "04 - Configurações & Rascunhos/Modelos/Template - MOC.md",
+    "00 - Painéis (MOCs)/MOC - História e Geografia.md",
+    "00 - Painéis (MOCs)/MOC - Português.md",
+    "00 - Painéis (MOCs)/MOC - Redação.md",
+    "00 - Painéis (MOCs)/00 - Início (Painel Geral).md",
+    "00 - Painéis (MOCs)/MOC - Física.md",
+    "03 - Anexos/Imagens/Introdução - redação.png",
     "03 - Anexos/Imagens/Desenvolvimento - redação.png",
     "03 - Anexos/Imagens/Conclusão - redação.png",
     "03 - Anexos/guia-markdown.pdf",
-    "04 - Configurações & Rascunhos/Modelos/Template - Nota de Estudo.md",
-    "00 - Painéis (MOCs)/MOC - Redação.md",
     "01 - Matérias/Redação/Estruturação da redação - como deve ser feito.md",
     "Repertórios sobre tecnologia.md",
-    "00 - Painéis (MOCs)/MOC - Português.md",
     "00 - Painéis (MOCs)/MOC - Matemática.md",
-    "00 - Painéis (MOCs)/MOC - História e Geografia.md",
-    "00 - Painéis (MOCs)/MOC - Física.md",
-    "04 - Configurações & Rascunhos/Modelos/Template - Registro de Erro.md",
     "02 - Banco de Erros/Erro - Dificuldade de desenvolver o tema.md",
     "02 - Banco de Erros/Mapa de Erros.md",
-    "00 - Painéis (MOCs)/00 - Início (Painel Geral).md",
     "01 - Matérias/Português/Fonética e Fonologia.md",
     "04 - Configurações & Rascunhos/Criar um backup para obsidian.md",
     "README.md",
@@ -225,7 +229,6 @@
     "01 - Matérias/Matemática/Notação científica.md",
     "01 - Matérias/Matemática/Multiplicação e Divisão.md",
     "03 - Anexos/Imagens/Pasted image 20260428184758.png",
-    "03 - Anexos/Imagens/Introdução - redação.png",
     "04 - Configurações & Rascunhos",
     "03 - Anexos/Imagens",
     "03 - Anexos",
