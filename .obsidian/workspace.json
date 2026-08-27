@@ -11,14 +11,12 @@
             "id": "8c40ed51f076af0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Tipos de Notas/Notas de Referência (MOCs)/MOC - Matématica.md",
-                "mode": "source",
-                "source": false
+                "file": "03 - Anexos/guia-markdown.pdf"
               },
-              "icon": "lucide-file",
-              "title": "MOC - Matématica"
+              "icon": "lucide-file-text",
+              "title": "guia-markdown"
             }
           }
         ]
@@ -195,26 +193,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c40ed51f076af0d",
+  "active": "546ce7509fe122b5",
   "lastOpenFiles": [
+    "01 - Matérias/Redação/Como construir uma redação - Conclusão + proposta de intervenção.md",
+    "01 - Matérias/Natureza/Cinematica.md",
+    "01 - Matérias/Humanas/O BRASIL COLÔNIA.md",
+    "00 - Painéis (MOCs)/MOC - Redação.md",
+    "00 - Painéis (MOCs)/MOC - Português.md",
+    "00 - Painéis (MOCs)/MOC - Matemática.md",
+    "00 - Painéis (MOCs)/MOC - Física.md",
+    "00 - Painéis (MOCs)/MOC - História e Geografia.md",
+    "02 - Banco de Erros/Erro - Dificuldade de desenvolver o tema.md",
+    "02 - Banco de Erros/Mapa de Erros.md",
+    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Matématica.md",
+    "04 - Configurações & Rascunhos/Criar um backup para obsidian.md",
+    "01 - Matérias/Português/Acentuação.md",
+    "01 - Matérias/Português/Fonética e Fonologia.md",
+    "01 - Matérias/Matemática/Notação científica.md",
+    "01 - Matérias/Matemática/Multiplicação e Divisão.md",
+    "01 - Matérias/Matemática/Adição e Subtração.md",
+    "01 - Matérias/Redação/Temas de redação treinados.md",
+    "01 - Matérias/Redação/Estruturação da redação - como deve ser feito.md",
+    "01 - Matérias/Redação/Como construir uma redação - Desenvolvimento.md",
+    "01 - Matérias/Redação/Como construir uma redação - Introdução.md",
+    "03 - Anexos/guia-markdown.pdf",
+    "03 - Anexos/Imagens/Pasted image 20260428184758.png",
+    "03 - Anexos/Imagens/Introdução - redação.png",
+    "03 - Anexos/Imagens/Desenvolvimento - redação.png",
+    "03 - Anexos/Imagens/Conclusão - redação.png",
+    "04 - Configurações & Rascunhos",
+    "03 - Anexos/Imagens",
+    "03 - Anexos",
+    "02 - Banco de Erros",
+    "01 - Matérias/Redação",
+    "01 - Matérias/Português",
+    "01 - Matérias/Natureza",
+    "01 - Matérias/Matemática",
+    "01 - Matérias/Humanas",
     "Tipos de Notas/Notas de Referência (MOCs)/MOC - História e Geografia.md",
     "Tipos de Notas/Notas de Referência (MOCs)/MOC - Física.md",
     "Tipos de Notas/Notas de Leitura (Literature)/Cinematica.md",
     "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Conclusão + proposta de intervenção.md",
     "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Desenvolvimento.md",
-    "Tipos de Notas/Mapa de Erros/Mapa de Erros.md",
-    "Acentuação.md",
-    "Bem-vindo.md",
-    "guia-markdown.pdf",
-    "Multiplicação e Divisão.md",
-    "O BRASIL COLÔNIA.md",
     "Pasted image 20260428184758.png",
-    "README.md",
-    "Temas de redação treinados.md",
     "Imagens/Desenvolvimento - redação.png",
     "Imagens/Introdução - redação.png",
-    "Imagens/Conclusão - redação.png",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Redação.md",
-    "teste"
+    "Imagens/Conclusão - redação.png"
   ]
 }

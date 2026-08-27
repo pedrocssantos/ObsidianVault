@@ -1,7 +1,7 @@
 ---
 Criação: 2026-04-28
 ---
-[[MOC - Matématica]]
+[[MOC - Matemática]]
 
 ### Multiplicação
 **Regras de sinais:**
