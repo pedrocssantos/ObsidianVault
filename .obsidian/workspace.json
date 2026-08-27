@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Banco de Erros/Erro - Dificuldade de desenvolver o tema.md",
+                "file": "04 - Configurações & Rascunhos/Modelos/Template - Nota de Estudo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erro - Dificuldade de desenvolver o tema"
+              "title": "Template - Nota de Estudo"
             }
           }
         ]
@@ -195,16 +195,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "546ce7509fe122b5",
+  "active": "8c40ed51f076af0d",
   "lastOpenFiles": [
-    "02 - Banco de Erros/Mapa de Erros.md",
-    "02 - Banco de Erros/Erro - Dificuldade de desenvolver o tema.md",
-    "01 - Matérias/Humanas/O BRASIL COLÔNIA.md",
-    "00 - Painéis (MOCs)/MOC - Redação.md",
-    "00 - Painéis (MOCs)/MOC - Português.md",
-    "00 - Painéis (MOCs)/MOC - Matemática.md",
-    "00 - Painéis (MOCs)/MOC - História e Geografia.md",
     "00 - Painéis (MOCs)/MOC - Física.md",
+    "04 - Configurações & Rascunhos/Modelos/Template - Registro de Erro.md",
+    "00 - Painéis (MOCs)/MOC - História e Geografia.md",
+    "00 - Painéis (MOCs)/MOC - Matemática.md",
+    "00 - Painéis (MOCs)/MOC - Português.md",
+    "04 - Configurações & Rascunhos/Modelos/Template - Nota de Estudo.md",
+    "00 - Painéis (MOCs)/MOC - Redação.md",
+    "04 - Configurações & Rascunhos/Modelos",
+    "02 - Banco de Erros/Erro - Dificuldade de desenvolver o tema.md",
+    "02 - Banco de Erros/Mapa de Erros.md",
+    "01 - Matérias/Humanas/O BRASIL COLÔNIA.md",
     "04 - Configurações & Rascunhos/Criar um backup para obsidian.md",
     "03 - Anexos/guia-markdown.pdf",
     "01 - Matérias/Redação/Como construir uma redação - Conclusão + proposta de intervenção.md",
@@ -231,11 +234,9 @@
     "01 - Matérias/Português",
     "01 - Matérias/Natureza",
     "01 - Matérias/Matemática",
-    "01 - Matérias/Humanas",
     "Tipos de Notas/Notas de Referência (MOCs)/MOC - História e Geografia.md",
     "Tipos de Notas/Notas de Referência (MOCs)/MOC - Física.md",
     "Tipos de Notas/Notas de Leitura (Literature)/Cinematica.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Como construir uma redação - Conclusão + proposta de intervenção.md",
     "Pasted image 20260428184758.png",
     "Imagens/Desenvolvimento - redação.png",
     "Imagens/Introdução - redação.png",
