@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d841635c968f558a",
+        "id": "b1c8b951986fae8b",
         "type": "tabs",
         "children": [
           {
-            "id": "8c40ed51f076af0d",
+            "id": "4b56fd198cde8eab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Configurações & Rascunhos/Modelos/Template - Nota de Estudo.md",
+                "file": "00 - Painéis (MOCs)/00 - Início (Painel Geral).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template - Nota de Estudo"
+              "title": "00 - Início (Painel Geral)"
             }
           }
         ]
@@ -195,15 +195,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c40ed51f076af0d",
+  "active": "4b56fd198cde8eab",
   "lastOpenFiles": [
-    "00 - Painéis (MOCs)/MOC - Física.md",
-    "04 - Configurações & Rascunhos/Modelos/Template - Registro de Erro.md",
-    "00 - Painéis (MOCs)/MOC - História e Geografia.md",
-    "00 - Painéis (MOCs)/MOC - Matemática.md",
-    "00 - Painéis (MOCs)/MOC - Português.md",
-    "04 - Configurações & Rascunhos/Modelos/Template - Nota de Estudo.md",
     "00 - Painéis (MOCs)/MOC - Redação.md",
+    "00 - Painéis (MOCs)/MOC - Português.md",
+    "00 - Painéis (MOCs)/MOC - Matemática.md",
+    "00 - Painéis (MOCs)/MOC - História e Geografia.md",
+    "00 - Painéis (MOCs)/MOC - Física.md",
+    "00 - Painéis (MOCs)/00 - Início (Painel Geral).md",
+    "04 - Configurações & Rascunhos/Modelos/Template - Nota de Estudo.md",
+    "MOC - Matéria.md",
+    "01 - Matérias/Português/Sem título.md",
+    "01 - Matérias/Matemática/Sem título.md",
+    "04 - Configurações & Rascunhos/Modelos/Template - Registro de Erro.md",
     "04 - Configurações & Rascunhos/Modelos",
     "02 - Banco de Erros/Erro - Dificuldade de desenvolver o tema.md",
     "02 - Banco de Erros/Mapa de Erros.md",
@@ -221,7 +225,6 @@
     "01 - Matérias/Redação/Temas de redação treinados.md",
     "01 - Matérias/Redação/Estruturação da redação - como deve ser feito.md",
     "01 - Matérias/Redação/Como construir uma redação - Desenvolvimento.md",
-    "01 - Matérias/Redação/Como construir uma redação - Introdução.md",
     "03 - Anexos/Imagens/Pasted image 20260428184758.png",
     "03 - Anexos/Imagens/Introdução - redação.png",
     "03 - Anexos/Imagens/Desenvolvimento - redação.png",
@@ -234,9 +237,6 @@
     "01 - Matérias/Português",
     "01 - Matérias/Natureza",
     "01 - Matérias/Matemática",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - História e Geografia.md",
-    "Tipos de Notas/Notas de Referência (MOCs)/MOC - Física.md",
-    "Tipos de Notas/Notas de Leitura (Literature)/Cinematica.md",
     "Pasted image 20260428184758.png",
     "Imagens/Desenvolvimento - redação.png",
     "Imagens/Introdução - redação.png",

@@ -1,3 +1,5 @@
+[[00 - Início (Painel Geral)]]
+
 # 🎯 Mapa de Erros & Prática Deliberada
 
 Este painel reúne os registros de dificuldades, bloqueios e falhas cometidas em redações, simulados e listas de exercícios para revisão ativa.

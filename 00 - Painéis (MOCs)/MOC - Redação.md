@@ -1,25 +1,46 @@
-## Mapa de erros
-[[Erro - Dificuldade de desenvolver o tema]]
+---
+materia: Redação
+tags:
+  - moc
+  - painel
+  - redação
+---
+[[00 - Início (Painel Geral)]]
 
-## Consolidação
-[[Estruturação da redação - como deve ser feito]]
+# ✍️ MOC — Redação
 
-## Estrutura da redação
-[[Como construir uma redação - Introdução]]
-[[Como construir uma redação - Desenvolvimento]]
-[[Como construir uma redação - Conclusão + proposta de intervenção]]
+> [!abstract] Objetivo & Modelo
+> **Modelo:** Dissertativo-Argumentativo (Padrão ENEM / Concursos).  
+> **Meta:** Domínio da estrutura (AAMED na conclusão, conectivos formais e repertórios coringa).
 
-## Banco de repertórios
-[[Repertórios sobre tecnologia]]
-[[Repertórios sobre educação]]
-[[Repertórios sobre desigualdade]]
+---
 
-## **Ferramentas de escrita**
-[[Conectivos para introdução]]
-[[Conectivos para desenvolvimento]]
-[[Conectivos para conclusão]]
+## 🗺️ Estrutura & Técnicas de Escrita
+- [x] [[Estruturação da redação - como deve ser feito]]
+- [x] [[Como construir uma redação - Introdução]]
+- [x] [[Como construir uma redação - Desenvolvimento]]
+- [x] [[Como construir uma redação - Conclusão + proposta de intervenção]]
 
-## **Treino prático**
-[[Temas de redação treinados]]
-[[Modelos de tese]]
-[[Modelos de argumento]]
+---
+
+## 📚 Banco de Repertórios Socioculturais
+- [ ] [[Repertórios sobre tecnologia]]
+- [ ] [[Repertórios sobre educação]]
+- [ ] [[Repertórios sobre desigualdade]]
+- [ ] [[Repertórios sobre saúde e meio ambiente]]
+
+---
+
+## 🧰 Conectivos & Ferramentas
+- [ ] [[Conectivos para introdução]]
+- [ ] [[Conectivos para desenvolvimento]]
+- [ ] [[Conectivos para conclusão]]
+- [ ] [[Modelos de tese]]
+- [ ] [[Modelos de argumento]]
+
+---
+
+## 🎯 Treino Prático & Análise de Falhas
+- 📝 [[Temas de redação treinados]]
+- 🚨 [[Erro - Dificuldade de desenvolver o tema]]
+- 📌 [[Mapa de Erros]]
