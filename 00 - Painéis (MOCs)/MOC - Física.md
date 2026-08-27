@@ -17,8 +17,8 @@ tags:
 ## 🗺️ Trilha de Conteúdo
 
 ### 1. Fundamentos & Grandezas
-- [x] [[Cinematica]]
-- [x] [[Notação científica]]
+- [ ] [[Cinematica]]
+- [ ] [[Notação científica]]
 - [ ] [[Sistema Internacional de Unidades e Conversões]]
 - [ ] [[Grandezas Escalares vs Vetoriais]]
 
