@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "79c1728f7c1afc09",
@@ -219,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "546ce7509fe122b5",
+  "active": "4b56fd198cde8eab",
   "lastOpenFiles": [
     "Servidor/Graphify/Sistema de Contratos/🛠️ Como Rodar Localmente.md",
     "Servidor/Graphify/Sistema de Contratos/🚀 Funcionalidades Principais.md",
