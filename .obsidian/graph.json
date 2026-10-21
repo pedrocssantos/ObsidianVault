@@ -5,18 +5,117 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Sistemas da Empresa\"",
+      "color": {
+        "a": 1,
+        "rgb": 1096065
+      }
+    },
+    {
+      "query": "path:\"Clientes & Sites\"",
+      "color": {
+        "a": 1,
+        "rgb": 9133302
+      }
+    },
+    {
+      "query": "path:\"Estudos & Projetos\"",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "path:\"Bots & Automacoes\"",
+      "color": {
+        "a": 1,
+        "rgb": 439988
+      }
+    },
+    {
+      "query": "path:\"Aplicacoes & Docker\"",
+      "color": {
+        "a": 1,
+        "rgb": 16347926
+      }
+    },
+    {
+      "query": "path:\"Rede & Seguranca\"",
+      "color": {
+        "a": 1,
+        "rgb": 3900150
+      }
+    },
+    {
+      "query": "path:\"Servidor & Hardware\"",
+      "color": {
+        "a": 1,
+        "rgb": 6583435
+      }
+    },
+    {
+      "query": "path:\"Diario de Bordo\"",
+      "color": {
+        "a": 1,
+        "rgb": 15485081
+      }
+    },
+    {
+      "query": "path:\"Empresa (Maximo Aldana)\"",
+      "color": {
+        "a": 1,
+        "rgb": 366185
+      }
+    },
+    {
+      "query": "path:\"Estudos & Faculdade\"",
+      "color": {
+        "a": 1,
+        "rgb": 15381256
+      }
+    },
+    {
+      "query": "path:\"Servidor & Infra\"",
+      "color": {
+        "a": 1,
+        "rgb": 960233
+      }
+    },
+    {
+      "query": "path:\"Projetos & Ideias\"",
+      "color": {
+        "a": 1,
+        "rgb": 1357990
+      }
+    },
+    {
+      "query": "path:\"Matérias\"",
+      "color": {
+        "a": 1,
+        "rgb": 14777241
+      }
+    },
+    {
+      "query": "path:\"Painéis\"",
+      "color": {
+        "a": 1,
+        "rgb": 15680580
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1.1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6666666666666663,
+  "scale": 0.2565254268931195,
   "close": true
 }
