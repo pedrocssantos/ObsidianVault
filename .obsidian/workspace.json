@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "episodio01_silencio_no_metro"
             }
+          },
+          {
+            "id": "76713dd03678269d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/home/maximoaldana96/.gemini/antigravity-cli/brain/43e764a0-57b0-418d-8da7-056db8660f77/episodio01_silencio_no_metro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "episodio01_silencio_no_metro"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -238,7 +252,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee150c8d2a9b7088",
+  "active": "76713dd03678269d",
   "lastOpenFiles": [
     "Servidor/Graphify/Mapa-Geral-Servidor-Conversas/canImportSpreadsheet().md",
     "Servidor/Graphify/Sistema de Contratos/_COMMUNITY__COMMUNITY_Community 2.md",
